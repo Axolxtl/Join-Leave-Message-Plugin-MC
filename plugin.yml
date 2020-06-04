@@ -1,0 +1,4 @@
+name: JoinFullServer
+version: 1.0-Snapshot
+author: Zanyar
+main: de.zanyar.JoinFullServer.main.Main
